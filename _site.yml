@@ -15,5 +15,6 @@ navbar:
 collections:
   posts:
     share: [twitter, facebook]
+    disqus: everything-water
     subscribe: _subscribe.html
 output: distill::distill_article
