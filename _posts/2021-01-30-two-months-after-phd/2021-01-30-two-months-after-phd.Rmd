@@ -1,0 +1,9 @@
+---
+title: "After PhD"
+description: | 
+  Getting used to a new life stage
+date: "2021-01-30"
+output: distill::distill_article
+---
+
+Exactly two months ago, I passed my PhD thesis defense.
