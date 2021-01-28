@@ -2,8 +2,28 @@
 title: "After PhD"
 description: | 
   Getting used to a new life stage
+preview: zoo.jpg
 date: "2021-01-30"
+categories: "academic life"
 output: distill::distill_article
 ---
 
-Exactly two months ago, I passed my PhD thesis defense.
+In the last two months of my PhD, I poured myself into coding, writing, and making presentations. I was moving at bullet speed. Then I passed my defense. Suddenly the bullet pierced through a wall and found itself without a target, disoriented. But it was impossible to stop.
+
+My brain had been working so hard it couldn't stop thinking. I had put off many research ideas to focus on the defense, and I wanted to get back to them. I knew that I was going to lose access to the computing clusters, so I wanted to ran them as much as possible. And there was AGU. But everyone around me was saying it was time for a break. My kids were screaming for my time. My house was screaming for a clean-up. And my wife was tired of doing most of the chores so that I could finish my thesis.
+
+I tried to slow down. I started by KonMari-ing the house. Then picking up the kids earlier from daycare to play with them. I brought them to the zoo and places. I made them a kitchen out of diaper cartons. Slowly, my brain winded down. I felt relaxed enough to go out on dates with my wife. It took me more than a month to find peace.
+
+![](zoo.jpg)
+
+<p style="text-align: center; font-style: italic;">The kids in the zoo</p>
+
+When I was OK with not sciencing, I picked up (once again) a new (old) hobby: inline skating. I skate once or twice a week, trying different parks in nearby neighbourhoods. I did the non-work things that I've always wanted to do: remake my website, start this blog, and update my CV. When I felt right, I resumed the weekly research meeting. We started slow, just tossing ideas around and brainstorming proposals. No serious science yet.
+
+![](carton-kitchen.jpg){style="display: block; margin-left: auto; margin-right: auto; width: 60%;"}
+
+<p style="text-align: center; font-style: italic;">The kids' kitchen, made out of diaper cartons</p>
+
+The second post-PhD month is now ending, and I am facing the opposite problem: my brain is not in science mode; I get distracted easily. But this seems to be an easier problem that will go away soon.
+
+Finishing a PhD is hard. As it turns out, having finished one is not easy either. Especially in a pandemic---I would have booked a trip somewhere if I could have. But as with most life stage transitions, it takes time. I'm still excited about what lies ahead.

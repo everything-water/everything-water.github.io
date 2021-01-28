@@ -3,11 +3,17 @@ title: "Everything water"
 description: |
   Information about the water cycle and musing of a scientist
 output_dir: "docs"
-base_url: https://everything-water.github.io
+base_url: https://everything-water.github.io/
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - icon: fa fa-rss
+      href: index.xml
+collections:
+  posts:
+    share: [twitter, facebook]
+    subscribe: _subscribe.html
 output: distill::distill_article
