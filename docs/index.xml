@@ -2,20 +2,20 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Everything water</title>
-    <link>https://everything-water.github.io/</link>
-    <atom:link href="https://everything-water.github.io/index.xml" rel="self" type="application/rss+xml"/>
+    <link>https://everything-water.github.io/posts/</link>
+    <atom:link href="https://everything-water.github.io/posts/index.xml" rel="self" type="application/rss+xml"/>
     <description>Information about the water cycle and musing of a scientist
 </description>
     <generator>Distill</generator>
     <lastBuildDate>Sat, 30 Jan 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>After PhD</title>
-      <link>https://everything-water.github.io/posts/2021-01-30-two-months-after-phd</link>
+      <link>https://everything-water.github.io/posts/posts/2021-01-30-two-months-after-phd</link>
       <description>Getting used to a new life stage</description>
       <category>academic life</category>
-      <guid>https://everything-water.github.io/posts/2021-01-30-two-months-after-phd</guid>
+      <guid>https://everything-water.github.io/posts/posts/2021-01-30-two-months-after-phd</guid>
       <pubDate>Sat, 30 Jan 2021 00:00:00 +0000</pubDate>
-      <media:content url="https://everything-water.github.io/posts/2021-01-30-two-months-after-phd/zoo.jpg" medium="image" type="image/jpeg"/>
+      <media:content url="https://everything-water.github.io/posts/posts/2021-01-30-two-months-after-phd/zoo.jpg" medium="image" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
