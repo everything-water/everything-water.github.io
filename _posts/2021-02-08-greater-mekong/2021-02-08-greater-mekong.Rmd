@@ -17,7 +17,7 @@ A massive power grid, capacity 47.89 GW, connects Laos and Thailand, spanning th
 
 ![](Figure_1.jpg)
 
-<p style="text-align: center; font-style: italic;">The Laos-Thailand power grid, encoded in the power system model PowNet [@chowdhury2020]. Inset: the Mekong and Chao Phraya River Basins, modelled with VIC-Res [@dang2020].</p>
+<p style="text-align: center; font-style: italic;">The Laos-Thailand power grid, encoded in the power system model PowNet [@chowdhury2020]. Inset: the Mekong and Chao Phraya River Basins, modeled with VIC-Res [@dang2020].</p>
 
 6.1 GW of capacity comes from hydropower, with 23 dams punctuating the river basins. Another 8.2 GW comes from thermal power plants that require river flow for cooling---during droughts, these plants have to be derated. In total, about 30% of installed capacity is dependent on freshwater supply from the rivers. These rivers are strongly influenced by climate. In particular, they tend to have low flow in El Ni&ntilde;os and high flow in La Ni&ntilde;as. How do these variations affect the power system? Is it robust enough against climate?
 
